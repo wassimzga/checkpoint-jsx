@@ -1,0 +1,21 @@
+.title{
+  color: blue;
+  text-align: center;
+  font-size: 75px;
+
+
+}
+.image1{
+  width: 40%;
+  height: 500px;
+  
+
+}
+.image2{
+  width: 40%;
+  height: 500px;
+}
+.picture{
+  display: flex;
+  justify-content: space-between;
+}
